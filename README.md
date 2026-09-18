@@ -11,7 +11,7 @@
    <a href="https://www.instagram.com/nathan_k.im/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"></a>
    <a href="https://nathankimutai.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=6600ff&style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfolio"></a>
    <a href="mailto:nathankimutai48@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"></a>
-   <a href="https://www.google.com/search?q=Nathan+Kimutai+Lotobo" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Google&color=fff&style=for-the-badge&logo=google&logoColor=4285F4" alt="Google"></a>
+   <a href="https://nathankimutai.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Google&color=fff&style=for-the-badge&logo=google&logoColor=4285F4" alt="Google"></a>
 </div>
 
 ## 📈 Statistics
