@@ -91,5 +91,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kim214/kim214/output/github-contribution-grid-snake.gif" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kim214/kim214/output/github-contribution-grid-snake.gif?v=dark" />
 </p>
