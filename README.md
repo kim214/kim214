@@ -1,5 +1,5 @@
-<a href="https://nathankimutai.vercel.app/" target="_blank" title="My Portfolio" alt="My Portfolio">
- <img src="./Portfolio_Banner.png" width="100%" height="auto" />
+<a href="https://nathankimutai.vercel.app/" target="_blank" title="Nathan Kimutai | Portfolio">
+  <img src="./Portfolio_Banner.png" alt="Hi, my name is Nathan. Software Engineer and AI Engineer." width="100%" />
 </a>
 
 <hr/>
